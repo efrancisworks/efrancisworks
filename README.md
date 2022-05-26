@@ -1,7 +1,13 @@
-### Hi there, I'm Emanuel! 👋
+# Hi there, I'm Emanuel! 👋 
+
+I'm currently a Computer Science major, looking to learn new skill and help collaborate on cool projects.
+- 🔭 I’m currently working on a retro game called Pong. With the help of Harvard University's CS50 class, I'm exploring a new world of game creation. You can check out my progress at the [animated-invention](https://github.com/Emanuelf-sfsu/animated-invention) repository.  
+
+
+
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Emanuelf-sfsu&show_icons=true&theme=dracula"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelf-sfsu&layout=compact"/>
-
 
 
 <!--
