@@ -1,6 +1,13 @@
 # Hi there, I'm Emanuel! 👋 
 
-I'm currently a Computer Science major, looking to learn new skill and help collaborate on cool projects. On my github you'll find projects that I've used for language proficiency, university course work, experiments with new technologies and etc. I hope that you are able to find something interesting here that you can use or contribute to.
+I'm currently a Computer Science major, looking to learn new skill and help collaborate on cool projects. On my github you'll find projects that I've used for: 
+- Language proficiency,
+- University course work 
+- Experiments with new technologies and frameworks
+- Tools that I use daily and etc.
+
+I hope that you are able to find something interesting here that you can use or contribute to.
+
 
 - 🔭 I’m currently working on a retro game called Pong. With the help of Harvard University's CS50 class, I'm exploring a new world of game creation. You can check out my progress at the [animated-invention](https://github.com/Emanuelf-sfsu/animated-invention) repository.  
 
