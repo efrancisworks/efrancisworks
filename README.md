@@ -4,7 +4,7 @@ I'm currently a Computer Science major, looking to learn new skill and help coll
 - Language proficiency,
 - University course work 
 - Experiments with new technologies and frameworks
-- Tools that I use daily and etc.
+- Tools that I use daily, etc.
 
 I hope that you are able to find something interesting here that you can use or contribute to.
 
