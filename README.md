@@ -13,7 +13,7 @@ I hope that you are able to find something interesting here that you can use or 
 
 
 <div style="display:flex ">
-<img src="https://github-readme-stats.vercel.app/api?username=Emanuelf-sfsu&show_icons=true&theme=dracula"/>
+<img width=47% src="https://github-readme-stats.vercel.app/api?username=Emanuelf-sfsu&show_icons=true&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelf-sfsu&layout=compact"/>
 <div>
 
