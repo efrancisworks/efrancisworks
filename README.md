@@ -14,7 +14,7 @@ I hope that you are able to find something interesting here that you can use or 
 
 <div style="display:flex justify-content: center">
 <img src="https://github-readme-stats.vercel.app/api?username=Emanuelf-sfsu&show_icons=true&theme=dracula"/>
-&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelf-sfsu&layout=compact"/>
+&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelf-sfsu&layout=compact&theme=dracula"/>
 <div>
 
 <!--
