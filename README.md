@@ -12,9 +12,9 @@ I hope that you are able to find something interesting here that you can use or 
 - 🔭 I’m currently working on a retro game called Pong. With the help of Harvard University's CS50 class, I'm exploring a new world of game creation. You can check out my progress at the [animated-invention](https://github.com/Emanuelf-sfsu/animated-invention) repository.  
 
 
-<div style="display:flex flex-direction: row">
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=Emanuelf-sfsu&show_icons=true&theme=dracula"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelf-sfsu&layout=compact"/>
+<div style="display:flex flex-direction: row gap:20px">
+<img src="https://github-readme-stats.vercel.app/api?username=Emanuelf-sfsu&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelf-sfsu&layout=compact"/>
 <div>
 
 <!--
