@@ -1,6 +1,6 @@
 # Hi there, I'm Emanuel! 👋 
 
-I'm currently a Computer Science major, looking to learn new skill and help collaborate on cool projects. On my github you'll find projects that I've used for: 
+I'm currently a Computer Science major, looking to learn new skills and collaborate on cool projects. On my GitHub you'll find projects that I've used for:
 - Language proficiency,
 - University course work 
 - Experiments with new technologies and frameworks
