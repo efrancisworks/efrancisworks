@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=efrancisworks&label=Profile%20views&color=0e75b6&style=flat" alt="efrancisworks" /> </p>
+
 # Hi there, I'm Emanuel! 👋 
 
 I'm currently a Computer Science major, looking to learn new skills and collaborate on cool projects. On my GitHub you'll find projects that I've used for:
@@ -6,15 +8,10 @@ I'm currently a Computer Science major, looking to learn new skills and collabor
 - Experiments with new technologies and frameworks
 - Tools that I use daily, etc.
 
-I hope that you are able to find something interesting here that you can use or contribute to.
-
-
-- 🔭 I’m currently working on a retro game called Pong. With the help of Harvard University's CS50 class, I'm exploring a new world of game creation. You can check out my progress at the [animated-invention](https://github.com/Emanuelf-sfsu/animated-invention) repository.  
-
 
 <div style="display:flex justify-content: center">
-<img src="https://github-readme-stats.vercel.app/api?username=Emanuelf-sfsu&show_icons=true&theme=dracula"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelf-sfsu&layout=compact&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=efrancisworks&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efrancisworks&layout=compact&theme=dracula"/>
 <div>
 
 <!--
